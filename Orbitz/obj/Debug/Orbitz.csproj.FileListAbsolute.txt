@@ -1,0 +1,8 @@
+C:\Users\Aravind\Documents\Work\C# Study\Orbitz\Orbitz\bin\Orbitz.dll
+C:\Users\Aravind\Documents\Work\C# Study\Orbitz\Orbitz\bin\Orbitz.pdb
+C:\Users\Aravind\Documents\Work\C# Study\Orbitz\Orbitz\obj\Debug\Orbitz.dll
+C:\Users\Aravind\Documents\Work\C# Study\Orbitz\Orbitz\obj\Debug\Orbitz.pdb
+C:\Users\Aravind\Documents\Work\C# Study\Orbitz\Orbitz\bin\Oracle.DataAccess.dll
+C:\Users\Aravind\Documents\Work\C# Study\Orbitz\Orbitz\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Aravind\Documents\Work\C# Study\Orbitz\Orbitz\bin\Oracle.Web.dll
+C:\Users\Aravind\Documents\Work\C# Study\Orbitz\Orbitz\obj\Debug\Orbitz.csprojResolveAssemblyReference.cache
